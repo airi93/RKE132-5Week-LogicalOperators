@@ -1,0 +1,14 @@
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\obj\Debug\net6.0\5WeekAndOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\obj\Debug\net6.0\5WeekAndOperator.AssemblyInfoInputs.cache
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\obj\Debug\net6.0\5WeekAndOperator.AssemblyInfo.cs
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\obj\Debug\net6.0\5WeekAndOperator.csproj.CoreCompileInputs.cache
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\bin\Debug\net6.0\5WeekAndOperator.exe
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\bin\Debug\net6.0\5WeekAndOperator.deps.json
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\bin\Debug\net6.0\5WeekAndOperator.runtimeconfig.json
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\bin\Debug\net6.0\5WeekAndOperator.dll
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\bin\Debug\net6.0\5WeekAndOperator.pdb
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\obj\Debug\net6.0\5WeekAndOperator.dll
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\obj\Debug\net6.0\refint\5WeekAndOperator.dll
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\obj\Debug\net6.0\5WeekAndOperator.pdb
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\obj\Debug\net6.0\5WeekAndOperator.genruntimeconfig.cache
+C:\Users\airi9\source\repos\5WeekLogicalOperators\5WeekAndOperator\obj\Debug\net6.0\ref\5WeekAndOperator.dll

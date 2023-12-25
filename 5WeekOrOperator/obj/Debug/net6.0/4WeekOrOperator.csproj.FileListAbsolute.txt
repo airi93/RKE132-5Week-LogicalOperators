@@ -1,0 +1,14 @@
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\bin\Debug\net6.0\4WeekOrOperator.exe
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\bin\Debug\net6.0\4WeekOrOperator.deps.json
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\bin\Debug\net6.0\4WeekOrOperator.runtimeconfig.json
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\bin\Debug\net6.0\4WeekOrOperator.dll
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\bin\Debug\net6.0\4WeekOrOperator.pdb
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\obj\Debug\net6.0\4WeekOrOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\obj\Debug\net6.0\4WeekOrOperator.AssemblyInfoInputs.cache
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\obj\Debug\net6.0\4WeekOrOperator.AssemblyInfo.cs
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\obj\Debug\net6.0\4WeekOrOperator.csproj.CoreCompileInputs.cache
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\obj\Debug\net6.0\4WeekOrOperator.dll
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\obj\Debug\net6.0\refint\4WeekOrOperator.dll
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\obj\Debug\net6.0\4WeekOrOperator.pdb
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\obj\Debug\net6.0\4WeekOrOperator.genruntimeconfig.cache
+C:\Users\airi9\source\repos\5WeekLogicalOperators\4WeekOrOperator\obj\Debug\net6.0\ref\4WeekOrOperator.dll
